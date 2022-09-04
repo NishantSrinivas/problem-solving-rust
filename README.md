@@ -1,4 +1,5 @@
 # problem-solving-rust
-problem solving in rust
 
-lc_num -> lc = leetcode, num = problem number in leetcode.
+Compile code using rustc <filename>.rs
+[linux]
+run code using ./<filename> 
