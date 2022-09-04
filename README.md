@@ -1,5 +1,7 @@
 # problem-solving-rust
 
-Compile code using rustc <<filename>>.rs
+Compile code using rustc file_name.rs
+\n
 [linux]
-run code using ./<<filename>> 
+\n
+run code using ./file_name 
